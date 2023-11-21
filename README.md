@@ -76,10 +76,10 @@ Welcome to the ESP32 ChatGPT Implementation project! This project enables you to
 
 ### YouTube Video
 
-[<p align="center"><img src="/images/overview.jpg" alt="Watch the video" width="300"></p>](https://www.youtube.com/shorts/8u8_6w0_Zd8)
+https://www.youtube.com/shorts/8u8_6w0_Zd8
 
 
-Click the image above to watch the YouTube video demonstrating the project.
+Click the link above to watch the YouTube video demonstrating the project.
 
 ## Softwares used:
 
